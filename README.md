@@ -1,2 +1,2 @@
-# AG
+# GA
 Genetic algorithm
